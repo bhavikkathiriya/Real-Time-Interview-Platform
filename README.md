@@ -97,13 +97,3 @@ actions/           # Server actions (bookings, calls, payouts, etc.)
 prisma/            # Database schema & migrations
 components/        # UI components
 ```
-
-## Roadmap
-
-- [ ] Add more interview categories
-- [ ] Interviewer ratings/reviews page
-- [ ] In-app messaging beyond call sessions
-
-## License
-
-MIT
